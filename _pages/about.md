@@ -27,7 +27,7 @@ In the last chapter, I study the differences in corporate sustainability among e
 
 Education
 ======
-I enjoy experiencing different cultures. Hence, I pursued my degree and extra training (next section) in various countries. 
+I enjoy experiencing different cultures. Hence, I pursued my degree and extra trainings in various countries. 
 
 **Degrees**
 
@@ -41,7 +41,7 @@ Master in Quantitative Finance, Fudan University (QS 36th), Sep 2019 - Jul 2021;
 
 Bachelor in Financial Management, Xiamen University, Sep 2015 - Jun 2019.
 
-**Extra Training**
+**Extra Trainings**
 
 Vrije University Summer School, Statistical Methods for Causal Inference, Jul 2024;
 
