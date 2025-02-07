@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profileyz.png"
   name             : "Yuxin (Vivian) Zhou"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Quant Finance"
