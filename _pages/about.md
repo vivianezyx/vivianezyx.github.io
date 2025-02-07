@@ -17,7 +17,7 @@ You could find [my CV here](https://vivianezyx.github.io/files/1_CV_Yuxin_ZHOU_F
 Thesis (Working in Progress)
 ======
 
-Title: Sustainability, Commodites and Geopolitics.
+**Title: Sustainability, Commodites and Geopolitics.**
 
 In my thesis, I define the sustainability of commodities through its carbon and water footprints. I study the diversification benefits brought by green commodities to the current stock-bond green portfolios.
 
