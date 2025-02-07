@@ -1,7 +1,7 @@
 ---
 title: "Sustainable commodity factors"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-01-31
 paperurl: 'https://ssrn.com/abstract=4698258'
