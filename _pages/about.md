@@ -14,7 +14,7 @@ I am Yuxin (Vivian) Zhou, a senior Ph.D. candidate in **Quantitative Finance** a
 
 My research focuses on **Sustainability**, **Energy Risk**, **Financial Market**, **Geopolitics** and **Political Finance**, integrating quantitative finance, econometrics, especially **panel data analysis** to address complex financial phenomena. I am particularly interested in the impact of sustainability or energy consumption on asset prices during big political events. 
 
-You could find [my CV](https://github.com/vivianezyx/vivianezyx.github.io/files/1_CV_Yuxin_ZHOU_Feb2025.pdf) here.
+You could find [my CV](https://github.com/vivianezyx/vivianezyx.github.io/blob/master/files/1_CV_Yuxin_ZHOU_Feb2025.pdf) here.
 
 Getting started
 ======
