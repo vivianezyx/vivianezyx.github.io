@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 ======
-I am Yuxin (Vivian) Zhou, a Ph.D. candidate in Quantitative Finance at Université de Lyon & emlyon business school, affiliated with the [AIM Quant Center](https://aim.em-lyon.com/quant/) and [Coactis Research Lab](https://coactis.org/). My research focuses on Sustainability, Financial Market, Geopolitics, and Event Study, integrating quantitative finance, econometrics, particularly panel data analysis to address complex financial phenomena.
+I am Yuxin (Vivian) Zhou, a senior Ph.D. candidate in Quantitative Finance at Université de Lyon & emlyon business school, affiliated with the [AIM Quant Center](https://aim.em-lyon.com/quant/) and [Coactis Research Lab](https://coactis.org/). My research focuses on Sustainability, Energy Risk, Financial Market, Geopolitics and Political Finance, integrating quantitative finance, econometrics, especially panel data analysis to address complex financial phenomena. I am particularly interested in the role of sustainability or energy consumption on asset prices during big political/geopolitical events. 
 
 Getting started
 ======
