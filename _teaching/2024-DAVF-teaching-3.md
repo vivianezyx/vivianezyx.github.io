@@ -8,4 +8,4 @@ date: 2024-12-01
 location: "Paris, France"
 ---
 
-Key aspects: Data Analysis; Data Visualization; Python; Tableau; Intro to Finance
+From Sep 2024 to Dec 2024. Key aspects: Data Analysis; Data Visualization; Python; Tableau; Intro to Finance
