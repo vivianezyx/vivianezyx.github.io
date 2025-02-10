@@ -1,4 +1,3 @@
-
 ---
 title: "Data Analytics and Visualization for Finance"
 collection: teaching
