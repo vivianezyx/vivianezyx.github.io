@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Business Statistics"
 collection: teaching
-type: "Undergraduate course"
+type: "Grande école course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "EMLYON Business School"
+date: 2025-01-31
+location: "Lyon, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is a Basics course at emlyon whose objective is to initiate students to a way of thinking about data and help understand how to use, communicate, and interpret business statistics. Quantitative and qualitative data are an integral part of the business environment, and decisions based on sound statistical analysis are the expected standard in our data-driven world. Basic statistical methods will be introduced through an online Pearson platform and complemented by Labs where students will work on Excelbased applications of these methods to marketing, finance, and management.
+Key aspects: Excel; Statistics; Probability Theory; Data Analytics; Regression
