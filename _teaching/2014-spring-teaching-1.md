@@ -8,4 +8,4 @@ date: 2025-01-31
 location: "Lyon, France"
 ---
 
-Key aspects: Excel; Statistics; Probability Theory; Data Analytics; Regression
+From Feb 2022 to Present. Key aspects: Excel; Statistics; Probability Theory; Data Analytics; Regression
