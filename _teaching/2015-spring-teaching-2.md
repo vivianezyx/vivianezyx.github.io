@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Business Economics and Markets"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "EMLYON Business School"
+date: 2025-03-21
+location: "Lyon, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+-
