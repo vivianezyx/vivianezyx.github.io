@@ -8,4 +8,4 @@ date: 2025-03-21
 location: "Lyon, France"
 ---
 
--
+March, 2025. Key aspects: Macro Economics; Excel; Data Analysis
